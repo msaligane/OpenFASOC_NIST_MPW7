@@ -2448,22 +2448,22 @@ XcascodetestsWithPads_0 cascodetestsWithPads_0/cascodetests_N_v2_0/gnd cascodete
 Xnoise_virtual_1 noise_virtual_1/noise_D[1] noise_virtual_1/noise_D[2] noise_virtual_1/noise_D[3]
 + noise_virtual_1/noise_D[0] noise_virtual_1/VVDD noise_virtual_1/VOUT noise_virtual_1/Noise_in
 + noise_virtual_1/VPWR cascodetestsWithPads_0/cascodetests_N_v2_0/gnd noise_virtual
-Xnoise_virtual_0 noise_virtual_0/noise_D[1] noise_virtual_0/noise_D[2] noise_virtual_0/noise_D[3]
-+ noise_virtual_0/noise_D[0] noise_virtual_0/VVDD noise_virtual_0/VOUT noise_virtual_0/Noise_in
-+ noise_virtual_0/VPWR cascodetestsWithPads_0/cascodetests_N_v2_0/gnd noise_virtual
 XTIA_434k_0 TIA_434k_0/Vdd TIA_434k_0/Vout TIA_434k_0/Iin cascodetestsWithPads_0/cascodetests_N_v2_0/gnd
 + TIA_434k
 XMEMID_0 MEMID_0/Vread MEMID_0/Vwriteplus MEMID_0/Vwriteminus MEMID_0/Vraw MEMID_0/Vamp
 + MEMID_0/Voffset MEMID_0/Vout MEMID_0/Vdd MEMID_0/Vi1 MEMID_0/Vi2 MEMID_0/Vss cascodetestsWithPads_0/cascodetests_N_v2_0/gnd
 + MEMID
+Xnoise_virtual_0 noise_virtual_0/noise_D[1] noise_virtual_0/noise_D[2] noise_virtual_0/noise_D[3]
++ noise_virtual_0/noise_D[0] noise_virtual_0/VVDD noise_virtual_0/VOUT noise_virtual_0/Noise_in
++ noise_virtual_0/VPWR cascodetestsWithPads_0/cascodetests_N_v2_0/gnd noise_virtual
+Xnoise_virtual_2 noise_virtual_2/noise_D[1] noise_virtual_2/noise_D[2] noise_virtual_2/noise_D[3]
++ noise_virtual_2/noise_D[0] noise_virtual_2/VVDD noise_virtual_2/VOUT noise_virtual_2/Noise_in
++ noise_virtual_2/VPWR cascodetestsWithPads_0/cascodetests_N_v2_0/gnd noise_virtual
 XTIA_434k_1 TIA_434k_1/Vdd TIA_434k_1/Vout TIA_434k_1/Iin cascodetestsWithPads_0/cascodetests_N_v2_0/gnd
 + TIA_434k
 XMEMID_1 MEMID_1/Vread MEMID_1/Vwriteplus MEMID_1/Vwriteminus MEMID_1/Vraw MEMID_1/Vamp
 + MEMID_1/Voffset MEMID_1/Vout MEMID_1/Vdd MEMID_1/Vi1 MEMID_1/Vi2 MEMID_1/Vss cascodetestsWithPads_0/cascodetests_N_v2_0/gnd
 + MEMID
-Xnoise_virtual_2 noise_virtual_2/noise_D[1] noise_virtual_2/noise_D[2] noise_virtual_2/noise_D[3]
-+ noise_virtual_2/noise_D[0] noise_virtual_2/VVDD noise_virtual_2/VOUT noise_virtual_2/Noise_in
-+ noise_virtual_2/VPWR cascodetestsWithPads_0/cascodetests_N_v2_0/gnd noise_virtual
 Xphoto_V2_1 w_19531_370583# w_19531_382583# w_19323_238507# photo_V2_1/sky130_fd_pr__nfet_01v8_lvt_D7LUG4$3_0/D5-P-c
 + photo_V2_1/sky130_fd_pr__nfet_01v8_lvt_D7LUG4$3_0/D5-P-b w_19711_334763# w_19517_286553#
 + w_19423_418507# w_19423_406507# w_19423_394507# photo_V2_1/sky130_fd_pr__nfet_01v8_lvt_D7LUG4$3_0/D3-P-b
@@ -2472,6 +2472,9 @@ Xphoto_V2_0 w_133716_204416# w_133716_216416# w_133508_72340# photo_V2_0/sky130_
 + photo_V2_0/sky130_fd_pr__nfet_01v8_lvt_D7LUG4$3_0/D5-P-b w_133896_168596# w_133702_120386#
 + w_133608_252340# w_133608_240340# w_133608_228340# photo_V2_0/sky130_fd_pr__nfet_01v8_lvt_D7LUG4$3_0/D3-P-b
 + w_133616_36416# cascodetestsWithPads_0/cascodetests_N_v2_0/gnd photo_V2
+Xnoise_virtual_3 noise_virtual_3/noise_D[1] noise_virtual_3/noise_D[2] noise_virtual_3/noise_D[3]
++ noise_virtual_3/noise_D[0] noise_virtual_3/VVDD noise_virtual_3/VOUT noise_virtual_3/Noise_in
++ noise_virtual_3/VPWR cascodetestsWithPads_0/cascodetests_N_v2_0/gnd noise_virtual
 XTIA_644k_0 TIA_644k_0/Vdd TIA_644k_0/Vout TIA_644k_0/Iin cascodetestsWithPads_0/cascodetests_N_v2_0/gnd
 + TIA_644k
 XsurfaceTestArray_0 surfaceTestArray
@@ -2481,6 +2484,7 @@ XMPW7_GWU_0 MPW7_GWU_0/Vb_2 MPW7_GWU_0/vgnd MPW7_GWU_0/Vdd MPW7_GWU_0/Vb_1 MPW7_
 + MPW7_GWU_0/G_1 MPW7_GWU_0/TE cascodetestsWithPads_0/cascodetests_N_v2_0/gnd MPW7_GWU_0/DIODE_2
 + MPW7_GWU_0/DIODE_1 MPW7_GWU
 XsurfaceTestArray_1 surfaceTestArray
+XsurfaceTestArray_2 surfaceTestArray
 .ends
 
 .subckt user_analog_project_wrapper io_analog[4] io_analog[5] io_analog[6] wb_clk_i
